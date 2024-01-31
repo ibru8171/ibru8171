@@ -13,7 +13,7 @@ Database: MongoDB
 Version Control: Git
 📚 Writing blog posts about my coding journey and tech insights.
 🔍 Let's Connect
-📧 Email: ibru8171@example.com
+📧 Email: ibru8171@gmail.com
 💼 LinkedIn: linkedin.com/in/ibrahim-shah-712bbb286
 🤝 Let's Collaborate!
 I'm excited about connecting with fellow developers, exploring new technologies, and making a positive impact in the tech world. Whether you have a project idea, want to collaborate, or just chat about coding, feel free to reach out. Let's code together and build amazing things!
