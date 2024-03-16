@@ -24,8 +24,7 @@ Happy coding! 🚀
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-- *🚀 Welcome to my GitHub profile! *  
+  
   
 
 - *👨‍💻 Aspiring MERN stack developer and recent BCA graduate, eager to dive into the world of full-stack development!*  
