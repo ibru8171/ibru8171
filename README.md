@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-* 👨‍💻 1+ year experience as a **Junior Software Developer**
+* 👨‍💻 2+ year experience as a **Software Developer**
 * 🏢 Currently working on **ERP & Distribution Systems**
 * 📊 Strong experience in **SQL, Reports, Stored Procedures**
 * 📈 Building **advanced dashboards (Power BI-level UI)** using Angular
